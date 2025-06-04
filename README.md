@@ -3,7 +3,7 @@
 Using Power BI to visualize patient and hospital data from select U.S. facilities, this project uncovers care trends and delivers insights to improve outcomes, optimize costs, and support data-driven healthcare decisions.
 
 ## Files
-- **pbix_dashbaord_file**: shows visuals of the analysis.
+- **pbix_dashboard_file**: showings the visuals of the analysis.
 - **healthcare dataset**
 - **README.md**: this provides an overview of the repository and instructions for accessing and using the files in the repo.
 ## Objectives
