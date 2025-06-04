@@ -26,5 +26,4 @@ Using Power BI to visualize patient and hospital data from select U.S. facilitie
 7. Elective admissions, planned in advance, accounted for the majority of hospital entries. While the average length of stay across admission types remained consistent at approximately 16 days, elective cases incurred higher treatment costs compared to emergency and urgent admissions.
 8. Medicare covers the majority of patients and ranks as the second-lowest in average treatment cost among all insurance providers.
 
-## Author
 [Babafunso Jegede](https://www.linkedin.com/in/babafunso-jegede-09634a232/)
