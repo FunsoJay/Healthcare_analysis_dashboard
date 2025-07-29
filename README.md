@@ -16,7 +16,7 @@ This interactive Power BI dashboard uncovers powerful insights on admissions, di
 7.	How are patients admitted - mostly through emergency, urgent, or planned admissions - and how does that impact the length of stay or treatment costs?
 8.	Which insurance companies are covering the most patients, and how does that relate to treatment costs and patient outcomes?
 
-Visualization
+## Visualization
 ![](https://github.com/FunsoJay/Healthcare_analysis_dashboard/blob/main/Healthcare%20Dashboard.png)
 ## Insights and Findings
 1. Over a 6-year period, senior patients (61+) accounted for the highest hospital admissions, with female seniors leading particularly in cases of diabetes and hypertension. This trend highlights the need for targeted healthcare strategies for aging women with chronic conditions.
