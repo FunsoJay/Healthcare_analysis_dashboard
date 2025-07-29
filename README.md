@@ -1,4 +1,4 @@
-# Healthcare_analysis_dashboard
+# Healthcare_Intelligence_Project
 
 ![](https://github.com/FunsoJay/Healthcare_analysis_dashboard/blob/main/HealthCare1.png)
 
